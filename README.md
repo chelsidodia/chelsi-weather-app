@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/chelsidodia/chelsi-weather-app?style=social)](https://github.com/chelsidodia/chelsi-weather-app/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/chelsidodia/chelsi-weather-app?style=social)](https://github.com/chelsidodia/chelsi-weather-app/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/chelsidodia/chelsi-weather-app)](https://github.com/chelsidodia/chelsi-weather-app/issues)
-[![GitHub license](https://img.shields.io/github/license/chelsidodia/chelsi-weather-app)](https://github.com/chelsidodia/chelsi-weather-app/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/chelsidodia/chelsi-weather-app)](https://github.com/chelsidodia/chelsi-weather-app/blob/main/LICENSE)
 ![Made with React](https://img.shields.io/badge/Made%20with-React-blue)
 ![Deployed on Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-brightgreen)
 ![Last Commit](https://img.shields.io/github/last-commit/chelsidodia/chelsi-weather-app)
