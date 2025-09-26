@@ -19,14 +19,16 @@ This project demonstrates my skills in frontend development, API integration, re
 ## 📸 Screenshots
 
 ### Desktop View
+![Desktop Screenshot](<public/screenshots/Screenshot 2025-09-25 221931.png>)
+
 ![Desktop Screenshot](<public/screenshots/Screenshot 2025-09-25 221916.png>)
 
-![Desktop Screenshot](<public/screenshots/Screenshot 2025-09-25 221931.png>)
 
 
 ### Mobile View
-![Mobile Screenshot](./screenshots/mobile.png)
+![Mobile Screenshot](<public/screenshots/Screenshot 2025-09-25 222253.png>)
 
+![Mobile Screenshot](<public/screenshots/Screenshot 2025-09-25 222310.png>)
 ---
 
 ## ✨ Features
