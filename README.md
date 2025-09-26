@@ -24,7 +24,7 @@ This project demonstrates my skills in frontend development, API integration, re
 ---
 
 ## 🚀 Live Demo
-🔗 [View the app on Netlify](https://your-netlify-link.netlify.app)  
+🔗 [View the app on Netlify](https://chelsi-weather-app.netlify.app/)  
 
 ---
 
