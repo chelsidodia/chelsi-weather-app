@@ -128,7 +128,9 @@ function App() {
         <video
           autoPlay
           loop
+          playsInline
           muted
+          preload="auto"
           className="background-video"
           key={weather.weather[0].main + weather.dt}
         >
